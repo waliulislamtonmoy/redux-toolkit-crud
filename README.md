@@ -1,5 +1,4 @@
-# To See OverView Live Project go->  : 
-Lnkk  [https://66ab0fbf4b954d6e4c92b43f--redux-toolkit-crud-project-01.netlify.app/]
+# To See OverView Live Project go->  : [https://66ab0fbf4b954d6e4c92b43f--redux-toolkit-crud-project-01.netlify.app/]
 
 #  Create This Project Using :
 1.react
