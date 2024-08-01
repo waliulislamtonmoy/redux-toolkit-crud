@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "john doe",
+      "age": "26",
+      "gender": "male",
+      "email": "johndoe@gmail.com",
+      "id": "f8d1"
+    },
+    {
+      "name": "jon li",
+      "age": "2",
+      "gender": "male",
+      "email": "jonli@gmail.com",
+      "id": "6115"
+    },
+    {
+      "name": "sayra khan",
+      "age": "23",
+      "gender": "female",
+      "email": "sayra@gmail.com",
+      "id": "d04a"
+    },
+    {
+      "id": "19ae",
+      "name": "ramim",
+      "age": "22",
+      "gender": "Male",
+      "email": "ramim@gmail.com"
+    },
+    {
+      "id": "dd89",
+      "name": "tasnim",
+      "age": "33",
+      "gender": "Female",
+      "email": "tasnim@gmail.com"
+    },
+    {
+      "id": "02de",
+      "name": "farhana akter",
+      "age": "17",
+      "gender": "Female",
+      "email": "farhana@gmail.com"
+    }
+  ]
+}
